@@ -1,0 +1,49 @@
+@media (min-width: 1280px) {
+    .divHeader {
+        width: 1300px;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        margin: 0 auto;
+        height: 80px;
+    }
+
+    .logoToDeCacho {
+        margin-right: 50px;
+        width: 100px;
+    }
+
+
+    .menuUlIcons {
+        width: 130px;
+        list-style: none;
+        display: flex;
+        align-items: center;
+
+    }
+    .menuUlIcons img {
+        width: 50px;
+        height: 35px;
+    }
+
+    .menuUl {
+        width: 630px;
+        display: flex;
+        justify-content: space-around;
+        list-style: none;
+        font-family: "Montserrat", sans-serif;
+    }
+    .menuUl a {
+        text-decoration: none;
+    }
+    .menuUl li {
+        color: #9767a9;
+        font-size: 15px;
+        
+    }
+    .menuUl a:hover {
+        font-weight: bold;
+    }
+
+}
+

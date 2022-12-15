@@ -1,0 +1,253 @@
+@media (min-width: 1280px) {
+
+    /*----------Main sessão 1----------*/
+    .Dicas-e-Truques h1 {
+        width: 400px;
+        position: absolute;
+        top: 280px;
+        left: 200px;
+        font-size: 70px;
+        font-family: "Playfair Display", serif;
+        color: white;
+
+    }
+    .Dicas-e-Truques p {
+        width: 382px;
+        position: absolute;
+        top: 342px;
+        left: 806px;
+        font-size: 32px;
+        font-family: "Montserrat", sans-serif;
+        color: white;
+    }
+
+
+    .imgCabeludo {
+        width: 100%;
+    }
+
+
+    .backgroundRoxo {
+        width: 100%;
+        height: 340px;
+        background-color: #9767A9;
+    }
+    .backgroundRoxo h2 {
+        width: 565px;
+        position: absolute;
+        top: 670px;
+        left: 80px;
+        font-size: 40px;
+        font-family: "Playfair Display", serif;
+        color: white;
+        
+    }
+    .backgroundRoxo p {
+        width: 570px;
+        position: absolute;
+        top: 680px;
+        left: 690px;
+        font-size: 22px;
+        font-family: "Montserrat", sans-serif;
+        color: white;
+    }
+
+    /*----------Main sessão 2----------*/
+    .imgUm {
+        width: 500px;
+        height: 400px;
+        position: absolute;
+        top: 890px;
+        left: 90px;
+    }
+
+    .backgroundRoxoDois {
+        width: 346px;
+        height: 296px;
+        position: absolute;
+        top: 1170px;
+        left: 168px;
+        background-color: #9767A9;
+    }
+    .backgroundRoxoDois h2 {
+        width: 222px;
+        text-align: left;
+        position: relative;
+        top: 20px;
+        left: 20px;
+        font-size: 22px;
+        font-family: "Playfair Display", serif;
+        color: white;
+    }
+    .backgroundRoxoDois p {
+        width: 310px;
+        text-align: left;
+        position: relative;
+        top: 35px;
+        left: 20px;
+        font-size: 12px;
+        font-family: "Montserrat", sans-serif;
+        color: white;
+    }
+
+    /*----------Main sessão tres----------*/
+    .imgDois {
+        width: 520px;
+        height: 400px;
+        position: absolute;
+        top: 1130px;
+        left: 605px;
+    }
+
+    .backgroundRoxoTres {
+        width: 346px;
+        height: 255px;
+        position: absolute;
+        top: 1422px;
+        left: 695px;
+        background-color: #9767A9;
+    }
+
+    .backgroundRoxoTres h2 {
+        width: 222px;
+        text-align: left;
+        position: relative;
+        top: 20px;
+        left: 20px;
+        font-size: 22px;
+        font-family: "Playfair Display", serif;
+        color: white;
+    }
+
+    .backgroundRoxoTres p {
+        width: 310px;
+        text-align: left;
+        position: relative;
+        top: 35px;
+        left: 20px;
+        font-size: 12px;
+        font-family: "Montserrat", sans-serif;
+        color: white;
+    }
+    
+    /*----------Main sessão 4----------*/
+    .imgTres {
+        width: 500px;
+        height: 400px;
+        position: absolute;
+        top: 1532px;
+        left: 90px;
+    }
+
+    .backgroundRoxoQuatro {
+        width: 346px;
+        height: 208px;
+        position: absolute;
+        top: 1825px;
+        left: 168px;
+        background-color: #9767A9;
+    }
+
+    .backgroundRoxoQuatro h2 {
+        width: 185px;
+        text-align: left;
+        position: relative;
+        top: 20px;
+        left: 20px;
+        font-size: 22px;
+        font-family: "Playfair Display", serif;
+        color: white;
+    }
+
+    .backgroundRoxoQuatro p {
+        width: 310px;
+        text-align: left;
+        position: relative;
+        top: 35px;
+        left: 20px;
+        font-size: 12px;
+        font-family: "Montserrat", sans-serif;
+        color: white;
+    }
+
+    /*----------Main sessão 5----------*/
+    .imgQuatro {
+        width: 520px;
+        height: 402px;
+        position: absolute;
+        top: 1750px;
+        left: 605px;
+    }
+
+    .backgroundRoxoCinco {
+        width: 346px;
+        height: 235px;
+        position: absolute;
+        top: 2100px;
+        left: 695px;
+        background-color: #9767A9;
+    }
+
+    .backgroundRoxoCinco h2 {
+        width: 185px;
+        text-align: left;
+        position: relative;
+        top: 20px;
+        left: 20px;
+        font-size: 22px;
+        font-family: "Playfair Display", serif;
+        color: white;
+    }
+
+    .backgroundRoxoCinco p {
+        width: 310px;
+        text-align: left;
+        position: relative;
+        top: 35px;
+        left: 20px;
+        font-size: 12px;
+        font-family: "Montserrat", sans-serif;
+        color: white;
+    }
+
+    /*Main sessão 6*/
+    .imgCinco {
+        width: 500px;
+        height: 400px;
+        position: absolute;
+        top: 2155px;
+        left: 90px;
+    }
+
+    .backgroundRoxoSeis {
+        width: 346px;
+        height: 235px;
+        position: absolute;
+        top: 2460px;
+        left: 168px;
+        background-color: #9767A9;
+    }
+
+    .backgroundRoxoSeis h2 {
+        width: 225px;
+        text-align: left;
+        position: relative;
+        top: 20px;
+        left: 20px;
+        font-size: 22px;
+        font-family: "Playfair Display", serif;
+        color: white;
+    }
+
+    .backgroundRoxoSeis p {
+        width: 310px;
+        text-align: left;
+        position: relative;
+        top: 35px;
+        left: 20px;
+        font-size: 12px;
+        font-family: "Montserrat", sans-serif;
+        color: white;
+    }
+
+}
